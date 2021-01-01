@@ -55,9 +55,9 @@ format_howtos.main()
 
 # -- Project information -----------------------------------------------------
 
-project = 'Flax'
-copyright = '2020, The Flax authors'  # pylint: disable=redefined-builtin
-author = 'The Flax authors'
+project = 'Flax-test-tksm'
+copyright = '2020, The Flax-test-tksm authors'  # pylint: disable=redefined-builtin
+author = 'The Flax-test-tksm authors'
 
 
 # -- General configuration ---------------------------------------------------
